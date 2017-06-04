@@ -1,0 +1,23 @@
+html {
+    font-size: 1.4em;
+}
+
+#banner {
+    background: #b64 url("https://static.pexels.com/photos/416208/pexels-photo-416208.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center bottom;
+    height: 300px;
+}
+
+body {
+    background: whitesmoke url("https://static.pexels.com/photos/275230/pexels-photo-275230.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+
+    min-height: 100vh;
+}
+
